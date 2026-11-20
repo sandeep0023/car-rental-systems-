@@ -1,0 +1,8 @@
+.DS_Store
+.env
+vendor/
+node_modules/
+.idea/
+.vscode/
+includes/config.php
+admin/includes/config.php
