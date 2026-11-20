@@ -1,0 +1,17 @@
+Put your background video file here and name it:  banner-bg.mp4
+
+Where to get a free car/driving video (no login needed):
+1. https://www.pexels.com/search/videos/car%20driving/
+2. https://pixabay.com/videos/search/car%20driving/
+
+Steps:
+1. Download an MP4 video (choose a short one, 10-20 seconds loops best,
+   under ~10MB is ideal so it loads fast).
+2. Rename it to: banner-bg.mp4
+3. Place it in this folder: carrental/assets/videos/
+4. Refresh localhost/carrental — the homepage banner will now autoplay
+   the video as its background instead of the static image.
+
+If no video is placed here, the banner falls back to the original
+banner-image.jpg automatically (via the poster attribute), so the site
+never breaks.
